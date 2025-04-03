@@ -15,8 +15,11 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" height= 50px width=50px />          
 </p>
 
-<p><strong>Sistema Operacional</strong></p>
+<p><strong>Sistemas Operacionais</strong></p>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" height=50px width=50px>          
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" height=50px width=50px>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" height=50px width=50px/>
+</p>
 </div>       
           
